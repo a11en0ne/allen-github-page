@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Allen's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/a11en0ne/allen-github-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
